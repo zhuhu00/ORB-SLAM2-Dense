@@ -352,6 +352,6 @@ void Tracking::getPointCloudMap(pcl::PointCloud<pcl::PointXYZRGBA>::Ptr &outputM
 见ROS中的RGBD-dense的代码，这部分目前由于RGBD模式在ROS环境下运行有问题，正在想办法解决。
 问题如下：
 
-![orbslam_bug](https://cdn.jsdelivr.net/gh/zhuhu00/img@master/orbslam_bug.gif)
+![orbslam_bug](https://github.com/zhuhu00/img/blob/master/orbslam_bug.gif)
 
 感觉是配置不对，或者是哪里出现了问题。
