@@ -1,8 +1,10 @@
-# 自己的修改
+# 修改的部分
 1. 将DBoW2改为了DBOW3. 已完成.
 2. 进行稠密建图的部分添加.此部分添加的教程及过程见Dense_map.md
-3. 
+## 效果图
+![20220112181454](https://raw.githubusercontent.com/zhuhu00/img/master/20220112181454.png)
 
+动态场景下，建出来的地图还是有很多重影。
 
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
