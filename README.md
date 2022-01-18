@@ -1,6 +1,6 @@
 # 修改的部分
-1. 将DBoW2改为了DBOW3. 已完成.
-2. 进行稠密建图的部分添加.此部分添加的教程及过程见Dense_map.md
+1. 将DBoW2改为了DBOW3.
+2. 进行稠密建图的部分添加.
 ## 效果图
 ![20220112181454](https://raw.githubusercontent.com/zhuhu00/img/master/20220112181454.png)
 
