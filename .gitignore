@@ -36,3 +36,5 @@ Examples/ROS/ORB_SLAM2/RGBD_Dense
 
 Thirdparty/g2o/cmake_modules/
 tools/bin_vocabulary
+CameraTrajectory2.txt
+*.pcd
